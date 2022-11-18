@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://moiralm.github.io/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://moiralm.github.io/p/first-blog/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://moiralm.github.io/post/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moiralm.github.io/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
@@ -21,9 +27,6 @@
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moiralm.github.io/page/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moiralm.github.io/post/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moiralm.github.io/tags/</loc>

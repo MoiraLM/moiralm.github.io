@@ -6,7 +6,16 @@
         <description>Recent content on Moira-Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://moiralm.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://moiralm.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>First-Blog</title>
+        <link>https://moiralm.github.io/p/first-blog/</link>
+        <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://moiralm.github.io/p/first-blog/</guid>
+        <description>&lt;p&gt;This is my First Blog.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>https://moiralm.github.io/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
